@@ -16,7 +16,7 @@
       "value": ""
     },
     "DUMP_ID": {
-      "description": "Channel_id where u want to send ccs",
+      "description": "-1001297212069",
       "required": true,
       "value": ""
     }
